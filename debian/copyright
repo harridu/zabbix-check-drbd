@@ -1,11 +1,11 @@
-This package is currently maintained by Christoph Hueffelmann <chr@istoph.de> 2017
+This package is currently maintained by Christoph Hueffelmann <chr@istoph.de> 2017 - 2020
 
 It is designed for the software from: 
 http://www.zabbix.com/ 
 
 Copyright: 
 
-  Copyright (C) 2017 
+  Copyright (C) 2017 - 2020
   Changes: Christoph Hueffelmann <chr@istoph.de> 
 
 License: 
@@ -22,4 +22,3 @@ License:
 
   On Debian GNU/Linux systems, the complete text of the GNU General 
   Public License can be found in `/usr/share/common-licenses/GPL-2'.
-  

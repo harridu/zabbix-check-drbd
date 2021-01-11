@@ -1,8 +1,14 @@
+zabbix-check-drbd (0.1~dev4) focal; urgency=medium
+
+  * drbd-overview has been deprecated #5
+
+ -- Christoph Hueffelmann <chr@istoph.de>  Mon, 11 Jan 2021 17:15:18 +0100
+
 zabbix-check-drbd (0.1~dev3) xenial; urgency=medium
 
   * Bugfix: Value should be a JSON object. #2
 
- -- Christoph Hüffelmann <chr@istoph.de>  Thu, 06 Feb 2020 01:08:41 +0100
+ -- Christoph Hueffelmann <chr@istoph.de>  Thu, 06 Feb 2020 01:08:41 +0100
 
 zabbix-check-drbd (0.1~dev2) xenial; urgency=medium
 

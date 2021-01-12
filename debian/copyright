@@ -1,9 +1,9 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 
 Files: *
-Copyright: 2017 - 2020 Christoph Hueffelmann <chr@istoph.de> 
+Copyright: 2017 - 2021 Christoph Hueffelmann <chr@istoph.de> 
 License: GPL-2.0-or-later
-  Copyright (c) 2020 Christoph Hueffelmann
+  Copyright (c) 2021 Christoph Hueffelmann
   .
   This program is free software; you can redistribute it and/or
   modify it under the terms of the GNU General Public License

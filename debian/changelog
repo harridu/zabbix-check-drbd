@@ -1,6 +1,7 @@
 zabbix-check-drbd (0.1~dev4) focal; urgency=medium
 
-  * drbd-overview has been deprecated #5
+  [ harridu ]
+  * drbd-overview has been deprecated (Closes: #5)
 
  -- Christoph Hueffelmann <chr@istoph.de>  Mon, 11 Jan 2021 17:15:18 +0100
 

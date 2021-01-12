@@ -3,6 +3,8 @@
 comma=""
 echo -n '{ "data": ['
 
-for k in $(cat /proc/drbd | cut -d: -f1); do test -z "${k##[0-9]*}" && echo -n $comma "{ \"{#RES}\": \"$k\" }" && comma=","; done
+for k in $(cat /proc/drbd | cut -d: -f1); do
+    test -z "${k##[0-9]*}" && echo -n $comma "{ \"{#RES}\": \"$k\" }" && comma=","
+done
 
 echo ']}'
